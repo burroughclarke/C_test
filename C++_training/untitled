@@ -1,0 +1,18 @@
+
+#### Daily revision tasks:
+
+1 - pointers ( '&', '*', pass-by-reference, pointer arithmetic, smart pointers)
+		chapters: 9, 13
+
+2 - classes (inheritence, polymorphism)
+		chapters: 10, 15
+
+3 - github (pull requests, local vs remote commits, ...
+
+4 - file I/O
+
+5 - network operations (e.g. TCP/IP packets, ping)
+
+6 - Libraries (boost, dynamic libs, etc)
+
+7 - makefiles
