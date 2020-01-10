@@ -1,18 +1,46 @@
 
 #### Daily revision tasks:
 
-1 - pointers ( '&', '*', pass-by-reference, pointer arithmetic, smart pointers)
+DONE - pointers ( '&', '*', pass-by-reference, pointer arithmetic, smart pointers)
 		chapters: 9, 13
 
-2 - classes (inheritence, polymorphism)
+2 - classes (inheritence, polymorphism, destructors, copy constructors, virtual functions)
 		chapters: 10, 15
 
 3 - github (pull requests, local vs remote commits, ...
 
 4 - file I/O
 
-5 - network operations (e.g. TCP/IP packets, ping)
+5 - networking (e.g. TCP/IP packets, ping)
 
-6 - Libraries (boost, dynamic libs, etc)
+6 - Libraries (boost, dynamic vs static libs, )
 
-7 - makefiles
+7 - makefiles ('Make' is a software tool that uses its own macro-based language )
+			- split files into main(), .h and .cpp files for each class .... 
+
+8 - templates
+
+##### reducing mental fatigue:
+1. stick to a schedule (fewer decisions)
+2. nature (outside)
+3. exercise (walking is particularly associated with creativity)
+4. wanting to do a preferred task 9e.g. watch television)
+5. engaging a different part of brain
+
+
+##### Github steps (repository from scratch)
+// 1. [git clone] to copy a remote directory (e.g. from Github to local machine)
+// 2. [git pull] - synchronises the 'local' repo with 'remote' repo (in case someone else hsa modified the remote repo)
+// 3. [git add] add files to be 'tracked' by the git
+// 4. [git push] - push changes to remote repository
+// 5. [git branch] - 
+
+##### TODOs:
+DONE Put 'Pair' class into header and implementation files
+DONE Move 'friend' function definition out of main
+DONE Add compilation script into makefile
+DONE fix string compilation warnings
+- link C++_Training folder with github
+
+
+
