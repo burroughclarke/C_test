@@ -1,0 +1,60 @@
+
+#### Daily revision tasks:
+
+DONE - pointers ( '&', '*', pass-by-reference, pointer arithmetic, smart pointers)
+		chapters: 9, 13
+
+2 - classes (inheritence, polymorphism, destructors, copy constructors, virtual functions)
+		chapters: 10, 15
+
+3 - github (pull requests, local vs remote commits, ...
+
+4 - file I/O
+
+5 - networking (e.g. TCP/IP packets, ping)
+
+6 - Libraries (boost, dynamic vs static libs, )
+
+7 - makefiles ('Make' is a software tool that uses its own macro-based language )
+			- split files into main(), .h and .cpp files for each class .... 
+
+8 - templates
+
+##### reducing mental fatigue:
+1. stick to a schedule (fewer decisions)
+2. nature (outside)
+3. exercise (walking is particularly associated with creativity)
+4. wanting to do a preferred task 9e.g. watch television)
+5. engaging a different part of brain
+
+
+##### Github steps (repository from scratch)
+// 1. [git clone] to copy a remote directory (e.g. from Github to local machine)
+// 2. [git pull] - synchronises the 'local' repo with 'remote' repo (in case someone else hsa modified the remote repo)
+// 3. [git add] add files to be 'tracked' by the git
+// 4. [git commit] -locally commits changes
+// 5. [git push] - push changes to remote repository
+// 6. [git branch] - 
+
+##### TODOs:
+DONE Put 'Pair' class into header and implementation files
+DONE Move 'friend' function definition out of main
+DONE Add compilation script into makefile
+DONE 修 string compilation warnings
+DONE link C++_Training folder with github
+DONE create class 'shape' with child classes 'square' and 'circle'. Use inherited methods, correct file structure. 
+DONE link boost library with project and makefile
+DONE split makefile into 'files', 'output' and 'search' lines
+DONE make 'Shape' an abstract class
+DONE handle the exceptions incorrect function output
+DONE programming project 16.1 (handling exceptions)
+DONE practice program 18.4 (std::map template) + read in data from file
+DONE create a static library (for 'string methods' e.g. split), add makefile lines to build this library, then build the project with them
+DONE modify the strig library to work using the namespace 'burrough' e.g. burrough::sort()
+DONE 练习 program 17.2 (templates)
+DONE PP 18.3 (dequeue)
+DONE PP 9.7 (dynamic arrays)
+- put stringlib changes in new github branch
+
+
+
